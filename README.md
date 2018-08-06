@@ -2,7 +2,8 @@ Esta carpeta contiene el código fuente y el script para la creación de la base
 
 Configuración:
 Se debe modificar el archivo variables.php que se encuentra en la carpeta conexión, de tal manera que se coloquen las credenciales correspondientes al equipo donde se este instalando la aplicación.
-Ejemplo
+Ejemplo:
+
 define("SERVIDOR",     "localhost");
 define("USUARIO",    "root");
 define("CONTRASEÑA", "");
